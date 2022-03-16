@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VitalinaKu
-- 👀 I’m interested in Java programming.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me vitalina.photo@gmail.com
+- 👀 I am beginner, enthusiastic, goal-oriented Java Developer very keen to further develop my skills.
+- 📫 How to reach me vitalina.kuzmenko.a@gmail.com
 
 <!---
 VitalinaKu/VitalinaKu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
