@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @VitalinaKu
+- 👋 Hi, I’m Vitalina:)
+- 🔭 I'm currently learning Software Development on Code Your Future
 - 👀 I am beginner, enthusiastic, goal-oriented Software Developer very keen to further develop my skills.
 - 📫 How to reach me vitalina.kuzmenko.a@gmail.com
 
