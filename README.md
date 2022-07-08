@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VitalinaKu
-- 👀 I am beginner, enthusiastic, goal-oriented Java Developer very keen to further develop my skills.
+- 👀 I am beginner, enthusiastic, goal-oriented Software Developer very keen to further develop my skills.
 - 📫 How to reach me vitalina.kuzmenko.a@gmail.com
 
 <!---
