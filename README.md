@@ -2,7 +2,7 @@
 <h3 align="center">I am beginner, enthusiastic, goal-oriented Software Developer from London, UK.</h3>
 
 - 🔭 I’m currently working on **Weather Forecast App in React**
-- 👀 I also improve my Software Development skills with CodeYourFuture**
+- 👀 I also improve my Software Development skills with **CodeYourFuture**
 - 📫 How to reach me **vitalina.kuzmenko.a@gmail.com**
 
 
