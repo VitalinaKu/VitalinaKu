@@ -21,5 +21,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=react)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&show_icons=true&theme=react" alt="VitalinaKuzmenko" />
+<img src="https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&show_icons=true&theme=react&hide=stars,issues" alt="VitalinaKuzmenko" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
