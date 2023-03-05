@@ -23,7 +23,7 @@
 <div align="center" >
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&theme=react&hide=stars,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=react&langs_count= 5)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=react&count_private=true)](https://git.io/streak-stats)
 
   </div>
