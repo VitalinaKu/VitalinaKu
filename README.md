@@ -20,6 +20,10 @@
 
 
 ### My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&theme=react&hide=stars,issues)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&theme=react&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=react)](https://git.io/streak-stats)
+
+<a href="https://github.com/VitalinaKuzmenko/github-readme-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=VitalinaKuzmenko&theme=react" />
+</a>
