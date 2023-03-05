@@ -20,6 +20,6 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=cobalt&background=000000)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&show_icons=true&theme=great-gatsby" alt="VitalinaKuzmenko" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=vision-friendly-cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=onedark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&show_icons=true&theme=onedark" alt="VitalinaKuzmenko" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
