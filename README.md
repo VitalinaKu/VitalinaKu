@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalina!</h1>
-<h3 align="center">I am beginner, enthusiastic, goal-oriented Software Developer from London, UK.</h3>
+<h3 align="center">I am enthusiastic, goal-oriented Software Developer from London, UK.</h3>
 
 - 🔭 I’m currently working on **something new**
 - 👀 I also improve my Software Development skills with **CodeYourFuture**
