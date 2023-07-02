@@ -22,7 +22,6 @@
 <h2 align="center">My Stats</h2>
 <div align="center" >
   
-<-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitalinaKuzmenko&theme=react&hide=stars,issues) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&langs_count=5&theme=react&layout=compact)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=react&count_private=true)
 
