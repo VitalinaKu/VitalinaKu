@@ -23,6 +23,7 @@
 <div align="center" >
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitalinaKuzmenko&langs_count=5&theme=react&layout=compact)
+<br/>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitalinaKuzmenko&theme=react&count_private=true)
 
   </div>
