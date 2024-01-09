@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitalina!</h1>
 <h3 align="center">I am enthusiastic, goal-oriented Software Developer from London, UK.</h3>
 
-- 🔭 I’m currently working on team project **Song Sieve**
+- 🔭 I’m currently working on **Pixel Clicker App and Photographer Portfolio Website**
 - 👀 I also improve my Software Development skills with **CodeYourFuture**
 - 📫 How to reach me **vitalina.kuzmenko.a@gmail.com**
 
